@@ -1,10 +1,10 @@
-body{
-  font-color: orange;
+img {
+  width: 900px;
 }
-p {
+body{
+  text-align: center;
+  color: orange;
   font-size: 20px;
-  color: red;
-  font-family: serif;
 }
 
 h1 {
@@ -16,3 +16,20 @@ h2 {
   color: blue;
   font-style: italic;
   font-size: 45px;
+
+}
+
+p.intro {
+  font-family: cursive;
+
+}
+ p.body {
+   font-size: 30px;
+   color: purple;
+   font-family: arial;
+ }
+
+p.summary {
+  font-family: arial;
+  color: gray;
+}
